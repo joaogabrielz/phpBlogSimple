@@ -1,3 +1,1 @@
 # phpBlogSimple
-
- - Autoral
